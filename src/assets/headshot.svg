@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Headshot placeholder">
+  <rect width="200" height="200" fill="#e5e7eb"/>
+  <circle cx="100" cy="80" r="40" fill="#9ca3af"/>
+  <rect x="40" y="130" width="120" height="50" rx="25" fill="#9ca3af"/>
+</svg>
