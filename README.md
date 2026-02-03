@@ -1,7 +1,6 @@
 
 # React Portfolio (Starter)
 
-Final portfolio submission - Sahil
 This starter meets the assignment requirements:
 - 5 pages (Home, About, Projects, Services, Contact) with navigation bar and custom logo.
 - Home has welcome + Mission statement + links to other pages.
